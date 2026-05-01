@@ -1,5 +1,4 @@
-name: Python CI/CD Mashchenko
-
+name: TV-31 Mashchenko Serhii ci cd
 on:
   push:
     branches: [ "main" ]
